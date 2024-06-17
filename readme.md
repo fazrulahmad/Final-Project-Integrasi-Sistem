@@ -590,5 +590,5 @@ Hasil dari Script di atas akan terlihat seperti ini:
 Hasil webnya tidak berbeda jauh dengan project 1, hanya menambahkan button untuk menyalakan dan mematikan lampu LED.
 
 Berikut adalah Link untuk video demo project 1 dan project 2:
-- project 1:
-- project 2:
+- project 1: [Video project 1](https://youtu.be/Wf2CTlz7nLk)
+- project 2: [Video project 2](https://youtu.be/jXfeznT6dmQ)
