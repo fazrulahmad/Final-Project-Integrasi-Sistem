@@ -391,7 +391,7 @@ client = mqtt.Client()
 client.on_connect = on_connect
 client.on_message = on_message
 # create connection, the three parameters are broker address, broker port number, and keep-alive time respectively
-client.username_pw_set(username="sighra",password="awang")
+client.username_pw_set(username="fazrul",password="azka")
 client.connect("152.42.194.14", 1883, 60)
 # set the network loop blocking, it will not actively end the program before calling disconnect() or the program crash
 client.loop_forever()
@@ -424,7 +424,7 @@ client = mqtt.Client()
 client.on_connect = on_connect
 client.on_message = on_message
 # create connection, the three parameters are broker address, broker port number, and keep-alive time respectively
-client.username_pw_set(username="sighra",password="awang")
+client.username_pw_set(username="fazrul",password="azka")
 client.connect("152.42.194.14", 1883, 60)
 # set the network loop blocking, it will not actively end the program before calling disconnect() or the program crash
 client.loop_forever()
